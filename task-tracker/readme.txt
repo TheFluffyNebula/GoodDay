@@ -14,3 +14,7 @@ get the ES7+ React extension (some shortcuts)
 rafce: new component, clg: console.log
 optional: change the language bottom right from JS to JSX
 misc: vs code pets! (get the extension, then click the squirrel icon bot right)
+
+json server: 
+npm i json-server, made a server call in package.json under scripts, 
+npm run server (port 5000), then npm start in new terminal tab
