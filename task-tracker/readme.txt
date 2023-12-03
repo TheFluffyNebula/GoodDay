@@ -18,3 +18,6 @@ misc: vs code pets! (get the extension, then click the squirrel icon bot right)
 json server: 
 npm i json-server, made a server call in package.json under scripts, 
 npm run server (port 5000), then npm start in new terminal tab
+
+routing:
+npm i react-router-dom
